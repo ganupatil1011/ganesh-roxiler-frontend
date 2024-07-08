@@ -4,14 +4,8 @@ This frontend project is designed to interact with the backend APIs created for 
 
 The frontend application is deployed and can be accessed at [https://ganesh-roxiler-frontend.vercel.app/]
 
-## Usage
-
-To use the frontend application, follow the instructions below:
-
-1. Ensure the backend API is deployed and accessible.
-2. Clone the frontend repository to your local machine.
-3. Install the necessary dependencies using the package manager of your choice (e.g., npm or yarn).
-4. npm install or yarn install
+# Backend 
+The backend application is deployed and can be accessed at [https://roxiler-assement.vercel.app]
 
 ## Features
 
